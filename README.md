@@ -6,7 +6,7 @@ link youtube: https://www.youtube.com/@tranthicamtu3927
 
 ## 1. Thông tin sinh viên
 - Họ và tên: Trần Thị Cẩm Tú
-- MSSV: [Điền MSSV của bạn]
+- MSSV: 1150080162
 - Môn học: An toàn và Bảo mật Hệ thống Thông tin
 - Bài thực hành: Lab 1 - Bắt gói tin Telnet - SSH
 
