@@ -1,5 +1,6 @@
 # LAB 3 – NHẬN DIỆN VÀ ỨNG PHÓ CÁC MỐI ĐE DỌA ĐẾN AN TOÀN THÔNG TIN
 
+Các bài Lab An toàn bảo mật hệ thống thông tin link youtube: https://www.youtube.com/@tranthicamtu3927
 ## 1. Thông tin sinh viên
 
 - Họ và tên: Trần Thị Cẩm Tú
