@@ -214,25 +214,4 @@ Sau khi hoàn thành LAB3:
 
 ---
 
-## 7. Cấu trúc thư mục nộp bài
 
-```text
-LAB3/
-├── README.md
-├── Report/
-│   └── LAB3_Report.docx
-├── Evidence/
-│   ├── H1_...
-│   ├── H2_ToolVersions.png
-│   ├── H3_Baseline_Defender_Firewall.png
-│   ├── H4_ProtectionHistory_EICAR.png
-│   ├── H5_Event4625.png
-│   ├── H6_Sysmon_Event1.png
-│   ├── H7_Autoruns_LAB3_Run_Demo.png
-│   └── ...
-└── Logs/
-    ├── baseline_*.txt
-    ├── defender_eicar.txt
-    ├── auth_events_before_rotation.txt
-    ├── auth_events_after_rotation.txt
-    └── ...
